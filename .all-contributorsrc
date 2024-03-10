@@ -247,7 +247,8 @@
       "avatar_url": "https://avatars0.githubusercontent.com/u/20483354?v=4",
       "profile": "https://github.com/waniniraj",
       "contributions": [
-        "code"
+        "code",
+        "doc"
       ]
     },
     {
@@ -392,6 +393,15 @@
       "name": "Diego Arostegui",
       "avatar_url": "https://avatars.githubusercontent.com/u/61184284?v=4",
       "profile": "https://github.com/darostegui",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "relativvv",
+      "name": "Robin Schulte",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52501124?s=400&u=65c9b54a550063e6bd3b4fb36f0ed7c9ac80bde5&v=4",
+      "profile": "https://github.com/relativvv",
       "contributions": [
         "code"
       ]
